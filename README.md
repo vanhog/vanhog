@@ -14,14 +14,13 @@ I build data-driven web applications with a focus on geospatial data and environ
 ## 🚀 Current Focus
 - Building data-driven dashboards
 - Working with geospatial datasets (InSAR, environmental data)
-- Improving frontend fundamentals (vanilla JS, no frameworks)
-
+- Improving frontend fundamentals (vanilla JS/FS, upcomming: React)
 ## 🤖 Workflow
 - Use AI tools to support coding, debugging and data processing
 - Focus on understanding and refining generated code
 
 ## 📌 Projects
-👉 Hydrological Data Dashboard (see below)
+👉 Hydrological Data Dashboard "Pegeldaten" (see below)
 
 ## 🌍 Background
 - Geophysics (InSAR, time series analysis)
