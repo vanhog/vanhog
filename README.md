@@ -7,6 +7,7 @@ I build data-driven web applications with a focus on geospatial data and environ
 ## 🔧 Tech Stack
 - JavaScript / TypeScript
 - Python
+- Tailwindcss
 - REST APIs
 - PostgreSQL / PostGIS
 - Leaflet (Maps)
