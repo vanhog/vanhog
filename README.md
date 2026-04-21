@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Dieter 👋
 
-<!--
-**vanhog/vanhog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Geophysicist (M.Sc.) transitioning into Web & Data Development.
 
-Here are some ideas to get you started:
+I build data-driven web applications with a focus on geospatial data and environmental monitoring.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- JavaScript / TypeScript
+- Python
+- REST APIs
+- PostgreSQL / PostGIS
+- Leaflet (Maps)
+
+## 🚀 Current Focus
+- Building data-driven dashboards
+- Working with geospatial datasets (InSAR, environmental data)
+- Improving frontend fundamentals (vanilla JS, no frameworks)
+
+## 🤖 Workflow
+- Use AI tools to support coding, debugging and data processing
+- Focus on understanding and refining generated code
+
+## 📌 Projects
+👉 Hydrological Data Dashboard (see below)
+
+## 🌍 Background
+- Geophysics (InSAR, time series analysis)
+- Data analysis & modeling
+- 20+ years experience in organization & project management
+
+## 📫 Contact
+- Kiel, Germany
+- github.com/vanhog
+
