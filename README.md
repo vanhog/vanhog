@@ -17,7 +17,7 @@ My goal as a web developer is to turn complex data into usable, interactive appl
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 
----
+
 
 ### Data & Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -27,7 +27,7 @@ My goal as a web developer is to turn complex data into usable, interactive appl
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?logo=plotly&logoColor=white)
 
----
+
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
